@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{55CB3C82-7F01-C444-6F49-A9EDA1AB8F8B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CubeSpawner.cs">
+    <Files>
+      <File FileName="Assets/CubeSpawner.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b2a1b8a9-8089-457f-a268-5e1e388ccc95" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
